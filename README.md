@@ -1,8 +1,8 @@
-📊 Dashboard de Performance de Receita (SQL + Power BI)
+📊 Análise de Desempenho Comercial
 
-Este projeto apresenta uma análise completa de receita e performance de negócio, utilizando SQL (PostgreSQL) para preparação dos dados e Power BI para construção do dashboard interativo.
+Este projeto tem como objetivo analisar a performance de vendas de uma empresa, identificando padrões, oportunidades de crescimento e possíveis pontos de melhoria no desempenho comercial.
 
-O objetivo é demonstrar a capacidade de transformar dados brutos em insights estratégicos e recomendações de negócio, seguindo um fluxo próximo ao ambiente corporativo.
+Através da construção de um pipeline de dados (ETL) e desenvolvimento de dashboards no Power BI, foram gerados insights estratégicos para suporte à tomada de decisão.
 
 -----
 
