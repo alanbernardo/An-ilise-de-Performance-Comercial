@@ -18,6 +18,7 @@ Indicadores gerais de performance
 
 ---
 🧠 Etapas do Projeto
+
 🔹 1. Modelagem e Estruturação de Dados (PostgreSQL)
 Criação de tabelas relacionais (customers, orders, products, categories, order_items)
 Definição de chaves primárias e estrangeiras
@@ -37,7 +38,6 @@ vw_revenue_by_category
 vw_customer_revenue
 vw_top_products
 
-----
 🔹 4. Dashboard no Power BI
 
 Construção de um dashboard interativo com:
